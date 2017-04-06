@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/linux/mm/vm_area_struct/verify_vm_area_struct.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/linux/mm/vm_area_struct/verify_vm_area_struct.ko /home/jagadeesh/Training/linux/mm/vm_area_struct/verify_vm_area_struct.o /home/jagadeesh/Training/linux/mm/vm_area_struct/verify_vm_area_struct.mod.o

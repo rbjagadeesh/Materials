@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/linux/pm/implementlsmod/implement_lsmod.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/linux/pm/implementlsmod/implement_lsmod.ko /home/jagadeesh/Training/linux/pm/implementlsmod/implement_lsmod.o /home/jagadeesh/Training/linux/pm/implementlsmod/implement_lsmod.mod.o

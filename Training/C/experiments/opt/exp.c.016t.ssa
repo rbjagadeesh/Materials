@@ -1,0 +1,39 @@
+
+;; Function main (main, funcdef_no=0, decl_uid=1824, cgraph_uid=0)
+
+main ()
+{
+  int d;
+  float div;
+  int sum;
+  int c;
+  int b;
+  int a;
+  int D.1837;
+  int D.1834;
+  int _6;
+
+  <bb 2>:
+  a_1 = 10;
+  b_2 = 20;
+  c_3 = 30;
+  d_4 = a_1;
+  sum_5 = a_1 + b_2;
+  _6 = c_3 / d_4;
+  div_7 = (float) _6;
+
+  <bb 3>:
+  if (sum_5 == c_3)
+    goto <bb 4>;
+  else
+    goto <bb 5>;
+
+  <bb 4>:
+  __builtin_puts (&"No optimisation"[0]);
+
+  <bb 5>:
+  goto <bb 3>;
+
+}
+
+

@@ -1,0 +1,43 @@
+main ()
+{
+  int i.0;
+  int i.1;
+  int j.2;
+  int j.3;
+  int j.4;
+  int j.5;
+  int j.6;
+  int j.7;
+  int j.8;
+  int j.9;
+  int j.10;
+  int D.1839;
+  int i;
+  volatile int j;
+
+  i = 10;
+  j = 20;
+  i.0 = i;
+  i = i.0 + -1;
+  i = i + 1;
+  i.1 = i;
+  i = i.1 + 1;
+  printf ("%d %d %d\n", i.1, i, i.0);
+  j.2 = j;
+  j.3 = j.2;
+  j.4 = j.3 + -1;
+  j = j.4;
+  j.5 = j;
+  j.6 = j.5 + 1;
+  j.7 = j.6;
+  j = j.7;
+  j.8 = j;
+  j.9 = j.8;
+  j.10 = j.9 + 1;
+  j = j.10;
+  printf ("%d %d %d\n", j.9, j.7, j.3);
+  D.1839 = 0;
+  return D.1839;
+}
+
+

@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/Domain/mem_alloc/kmod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/Domain/mem_alloc/kmod.ko /home/jagadeesh/Training/Domain/mem_alloc/kmod.o /home/jagadeesh/Training/Domain/mem_alloc/kmod.mod.o

@@ -1,0 +1,2 @@
+app : main.c ass2_exp1.c ass2_exp2.c ass2_exp3.c ass2_exp4.c ass2_exp5.c ass2_exp6.c ass2_exp7.c ass2_exp8.c ass2_exp9.c ass2_exp10.c ass2_exp11.c ass2_exp12.c ass2_exp13.c ass2_exp14.c ass2_exp15.c input.c   strlength.c 
+	gcc -o app main.c ass2_exp1.c ass2_exp2.c ass2_exp3.c ass2_exp4.c ass2_exp5.c ass2_exp6.c ass2_exp7.c ass2_exp8.c ass2_exp9.c ass2_exp10.c ass2_exp11.c ass2_exp12.c ass2_exp13.c ass2_exp14.c ass2_exp15.c input.c   strlength.c 

@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/experiments/linux_exp/mm/page_walk/page_walk.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/experiments/linux_exp/mm/page_walk/page_walk.ko /home/jagadeesh/Training/experiments/linux_exp/mm/page_walk/page_walk.o /home/jagadeesh/Training/experiments/linux_exp/mm/page_walk/page_walk.mod.o

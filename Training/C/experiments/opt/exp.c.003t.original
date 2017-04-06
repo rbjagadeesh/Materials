@@ -1,0 +1,31 @@
+
+;; Function main (null)
+;; enabled by -tree-original
+
+
+{
+  int a = 10;
+  int b = 20;
+  int c = 30;
+  int sum;
+  float div;
+  int d;
+
+    int a = 10;
+    int b = 20;
+    int c = 30;
+    int sum;
+    float div;
+    int d;
+  d = a;
+  sum = a + b;
+  div = (float) (c / d);
+  <D.1832>:;
+  if (sum == c)
+    {
+      printf ((const char * restrict) "No optimisation\n");
+    }
+  goto <D.1832>;
+  return 0;
+}
+

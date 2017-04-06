@@ -1,0 +1,14 @@
+
+;; Function main (null)
+;; enabled by -tree-original
+
+
+{
+  int a = 10;
+  char ch;
+
+    int a = 10;
+    char ch;
+  printf ((const char * restrict) " Hello world a= %d \n ch = %d", a, (int) ch);
+}
+

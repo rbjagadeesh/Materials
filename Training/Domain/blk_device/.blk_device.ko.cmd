@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/Domain/blk_device/blk_device.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/Domain/blk_device/blk_device.ko /home/jagadeesh/Training/Domain/blk_device/blk_device.o /home/jagadeesh/Training/Domain/blk_device/blk_device.mod.o

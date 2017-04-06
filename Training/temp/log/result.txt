@@ -1,0 +1,1247 @@
+	Master Summary
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 2
+      Log0 2 | 4
+      Log0 3 | 1
+      Log0 4 | 3
+      Log0 5 | 3
+      Log0 6 | 5
+      Log0 7 | 2
+      Log0 8 | 5
+      Log0 9 | 4
+      Log010 | 5
+      Log011 | 2
+      Log012 | 3
+      Log013 | 3
+      Log014 | 2
+      Log015 | 3
+      Log016 | 3
+      Log017 | 7
+      Log018 | 2
+      Log019 | 4
+      Log020 | 2
+      Log021 | 6
+      Log022 | 5
+      Log023 | 2
+      Log024 | 2
+      Log025 | 1
+      Log026 | 6
+      Log027 | 2
+      Log028 | 3
+      Log029 | 3
+      Log030 | 6
+
+      Total  | 101 
+
+	Invalid Log Summary
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_13>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 1
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 2
+      Log018 | 1
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 4 
+
+	Invalid Log Summary for <sys_13>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_27>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 1
+      Log011 | 0
+      Log012 | 1
+      Log013 | 1
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 1
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 1
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 5 
+
+	Invalid Log Summary for <sys_27>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_23>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 2
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 1
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 3 
+
+	Invalid Log Summary for <sys_23>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_16>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 1
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 1
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 1
+      Log011 | 0
+      Log012 | 0
+      Log013 | 1
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 1
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 5 
+
+	Invalid Log Summary for <sys_16>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_09>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 1
+      Log0 3 | 0
+      Log0 4 | 1
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 1
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 1
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 4 
+
+	Invalid Log Summary for <sys_09>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_02>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 1
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 1
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 2
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 1
+
+      Total  | 5 
+
+	Invalid Log Summary for <sys_02>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_20>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 1
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 1 
+
+	Invalid Log Summary for <sys_20>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_01>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 1
+      Log0 7 | 1
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 1
+      Log020 | 0
+      Log021 | 3
+      Log022 | 0
+      Log023 | 1
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 7 
+
+	Invalid Log Summary for <sys_01>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_22>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 1
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 1
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 1
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 3 
+
+	Invalid Log Summary for <sys_22>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_11>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 1
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 1 
+
+	Invalid Log Summary for <sys_11>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_07>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 1
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 1
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 2 
+
+	Invalid Log Summary for <sys_07>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_29>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 1
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 1
+      Log014 | 0
+      Log015 | 1
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 1
+      Log029 | 1
+      Log030 | 0
+
+      Total  | 5 
+
+	Invalid Log Summary for <sys_29>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_12>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 1
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 1
+      Log017 | 0
+      Log018 | 0
+      Log019 | 1
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 3 
+
+	Invalid Log Summary for <sys_12>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_21>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 1
+      Log0 7 | 0
+      Log0 8 | 1
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 1
+
+      Total  | 3 
+
+	Invalid Log Summary for <sys_21>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_14>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 1
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 1
+      Log0 9 | 1
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 1
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 1
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 2
+      Log029 | 1
+      Log030 | 0
+
+      Total  | 8 
+
+	Invalid Log Summary for <sys_14>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_08>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 1
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 1
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 1
+      Log026 | 2
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 5 
+
+	Invalid Log Summary for <sys_08>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_05>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 1
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 1
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 2 
+
+	Invalid Log Summary for <sys_05>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_26>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 1
+      Log0 3 | 0
+      Log0 4 | 1
+      Log0 5 | 1
+      Log0 6 | 1
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 1
+      Log020 | 0
+      Log021 | 0
+      Log022 | 1
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 6 
+
+	Invalid Log Summary for <sys_26>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_15>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 1
+      Log012 | 0
+      Log013 | 0
+      Log014 | 1
+      Log015 | 0
+      Log016 | 1
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 1
+
+      Total  | 4 
+
+	Invalid Log Summary for <sys_15>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_24>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 1
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 1
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 1
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 1
+
+      Total  | 4 
+
+	Invalid Log Summary for <sys_24>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_03>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 1
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 1
+      Log022 | 2
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 1
+
+      Total  | 5 
+
+	Invalid Log Summary for <sys_03>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_06>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 1
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 1
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 1
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 3 
+
+	Invalid Log Summary for <sys_06>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_19>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 1
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 1 
+
+	Invalid Log Summary for <sys_19>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_17>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 1
+      Log0 4 | 1
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 1
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 1
+      Log027 | 1
+      Log028 | 0
+      Log029 | 1
+      Log030 | 0
+
+      Total  | 6 
+
+	Invalid Log Summary for <sys_17>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_04>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 1
+
+      Total  | 1 
+
+	Invalid Log Summary for <sys_04>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_10>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 2
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 2 
+
+	Invalid Log Summary for <sys_10>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_28>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 1
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 0
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 1
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 2 
+
+	Invalid Log Summary for <sys_28>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+
+	Summary for: <sys_18>
+  -----------------------------
+     LogId | # of msgs
+  -----------------------------
+      Log0 1 | 0
+      Log0 2 | 0
+      Log0 3 | 0
+      Log0 4 | 0
+      Log0 5 | 0
+      Log0 6 | 0
+      Log0 7 | 0
+      Log0 8 | 0
+      Log0 9 | 0
+      Log010 | 1
+      Log011 | 0
+      Log012 | 0
+      Log013 | 0
+      Log014 | 0
+      Log015 | 0
+      Log016 | 0
+      Log017 | 0
+      Log018 | 0
+      Log019 | 0
+      Log020 | 0
+      Log021 | 0
+      Log022 | 0
+      Log023 | 0
+      Log024 | 0
+      Log025 | 0
+      Log026 | 0
+      Log027 | 0
+      Log028 | 0
+      Log029 | 0
+      Log030 | 0
+
+      Total  | 1 
+
+	Invalid Log Summary for <sys_18>
+  -----------------------------
+     Total  Invalid Logs | 0
+  -----------------------------
+
+

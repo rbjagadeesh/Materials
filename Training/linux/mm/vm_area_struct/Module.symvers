@@ -1,0 +1,2 @@
+0x8e7b6537	fops	/home/jagadeesh/Training/linux/mm/vm_area_struct/verify_vm_area_struct	EXPORT_SYMBOL_GPL
+0x92abdc0d	myIoctl	/home/jagadeesh/Training/linux/mm/vm_area_struct/verify_vm_area_struct	EXPORT_SYMBOL

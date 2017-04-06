@@ -1,0 +1,1 @@
+cmd_/home/ashishkumar/Desktop/sample/char_driver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/ashishkumar/Desktop/sample/char_driver.ko /home/ashishkumar/Desktop/sample/char_driver.o /home/ashishkumar/Desktop/sample/char_driver.mod.o

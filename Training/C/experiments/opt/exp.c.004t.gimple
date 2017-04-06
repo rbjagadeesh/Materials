@@ -1,0 +1,29 @@
+main ()
+{
+  int D.1834;
+  int D.1837;
+  int a;
+  int b;
+  int c;
+  int sum;
+  float div;
+  int d;
+
+  a = 10;
+  b = 20;
+  c = 30;
+  d = a;
+  sum = a + b;
+  D.1834 = c / d;
+  div = (float) D.1834;
+  <D.1832>:
+  if (sum == c) goto <D.1835>; else goto <D.1836>;
+  <D.1835>:
+  __builtin_puts (&"No optimisation"[0]);
+  <D.1836>:
+  goto <D.1832>;
+  D.1837 = 0;
+  return D.1837;
+}
+
+

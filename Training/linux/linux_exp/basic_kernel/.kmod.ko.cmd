@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/linux/basic_kernel/kmod.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/linux/basic_kernel/kmod.ko /home/jagadeesh/Training/linux/basic_kernel/kmod.o /home/jagadeesh/Training/linux/basic_kernel/kmod.mod.o

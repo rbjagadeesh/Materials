@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/linux/pm/verify_vi.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/linux/pm/verify_vi.ko /home/jagadeesh/Training/linux/pm/verify_vi.o /home/jagadeesh/Training/linux/pm/verify_vi.mod.o

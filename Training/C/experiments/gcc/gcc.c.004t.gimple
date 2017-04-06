@@ -1,0 +1,12 @@
+main ()
+{
+  int D.1829;
+  int a;
+  char ch;
+
+  a = 10;
+  D.1829 = (int) ch;
+  printf (" Hello world a= %d \n ch = %d", a, D.1829);
+}
+
+

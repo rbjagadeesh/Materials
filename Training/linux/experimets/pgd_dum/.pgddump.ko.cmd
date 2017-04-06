@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/linux/experimets/pgd_dum/pgddump.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/linux/experimets/pgd_dum/pgddump.ko /home/jagadeesh/Training/linux/experimets/pgd_dum/pgddump.o /home/jagadeesh/Training/linux/experimets/pgd_dum/pgddump.mod.o

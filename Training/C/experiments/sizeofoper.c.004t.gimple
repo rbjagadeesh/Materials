@@ -1,0 +1,18 @@
+main ()
+{
+  int D.1835;
+  char * a;
+  char b;
+  char * c;
+  char d;
+  char * e;
+  char * f;
+  int g;
+
+  g = 4;
+  printf ("g = %d\n", g);
+  D.1835 = 0;
+  return D.1835;
+}
+
+

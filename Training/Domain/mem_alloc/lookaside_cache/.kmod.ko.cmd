@@ -1,0 +1,1 @@
+cmd_/home/jagadeesh/Training/Domain/mem_alloc/lookaside_cache/kmod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jagadeesh/Training/Domain/mem_alloc/lookaside_cache/kmod.ko /home/jagadeesh/Training/Domain/mem_alloc/lookaside_cache/kmod.o /home/jagadeesh/Training/Domain/mem_alloc/lookaside_cache/kmod.mod.o
